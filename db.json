@@ -1,24 +1,29 @@
 {
   "tasks": [
     {
+      "id":"1",
       "title": "Task1",
-      "id":"icebox"
+      "category": "icebox"
     },
     {
-      "title": "Task2",
-      "id":"pending"
+      "id":"2",
+      "title": "Task2",      
+      "category": "pending"
     },
     {
-      "title": "Task3",
-      "id":"wip"
+      "id":"3",
+      "title": "Task3",      
+      "category": "wip"
     },
     {
-      "title": "Task4",
-      "id":"review"
+      "id":"4",
+      "title": "Task4",      
+      "category": "review"
     },
     {
-      "title": "Task5",
-      "id":"done"
+      "id":"5",
+      "title": "Task5",      
+      "category": "done"
     }
   ]
 }
