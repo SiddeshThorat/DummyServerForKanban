@@ -1,0 +1,5 @@
+{title: 'Test 1',id:'icebox'},
+        {title: 'Test 2',id:'pending'},
+        {title: 'Test 3',id:'wip'},
+        {title: 'Test 4',id:'review'},
+        {title: 'Test 5',id:'done'}
