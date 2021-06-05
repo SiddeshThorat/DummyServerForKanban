@@ -1,5 +1,12 @@
-{title: 'Task1',id:'icebox'},
-{title: 'Task2',id:'pending'},
-{title: 'Task3',id:'wip'},
-{title: 'Task4',id:'review'},
-{title: 'Task5',id:'done'}
+{
+  tasks: [
+    {title: 'Task1',id:'icebox'},
+    {title: 'Task2',id:'pending'},
+    {title: 'Task3',id:'wip'},
+    {title: 'Task4',id:'review'},
+    {title: 'Task5',id:'done'}
+  ]
+}
+
+
+
